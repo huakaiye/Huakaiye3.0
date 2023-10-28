@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "eb6c48ff35fbf668",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e9485cfd55a73e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4841d504fea3584b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "85f0c60f16a70679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "备忘录/Obsidian表格.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1176dc4fa8faca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医/药性表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2b6b17a32c775ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "873cac224cdb4c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747a844db9716778",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d195fe2fac5e596d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#药性/性平",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f360f834b92b282",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ce64258e92e4699",
+    "type": "split",
+    "children": [
+      {
+        "id": "252fbfd2d5dfb7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86addfec6226b0d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中医/药性表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7fd77cf8c6313bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中医/药性表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0e885d9360a4734",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1cd1ccee84543487",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中医/药性表.md"
+              }
+            }
+          },
+          {
+            "id": "75847243799de748",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "77e8b1d416e1d040",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "e1176dc4fa8faca2",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "草稿纸.md",
+    "中医/药性表.md",
+    "上岸计划_V1.0_231031/【状态维持】身体状态保持/【提神】/提神饮料.md",
+    "备忘录/Obsidian表格.md",
+    "中医",
+    "上岸计划_V1.0_231031/【第一轮】复习计划—38有效日/【每日工作内容】-前38有效日.md",
+    "备忘录/markdown数学公式.md",
+    "备忘录/Alist网盘.md",
+    "备忘录/常用的14个Markdown语法.md",
+    "上岸计划_V1.0_231031/【每日清单】-Todoist.md",
+    "【笔记】/【数三】/1-高等数学/未命名",
+    "图片/Pasted image 20231023163230.png",
+    "图片/Pasted image 20231023155321.png",
+    "图片/Pasted image 20231023145648.png",
+    "图片/Pasted image 20231023145821.png",
+    "上岸计划_V1.0_231031/【目标分数】385.md",
+    "备忘录/Todoist过滤选项.md",
+    "上岸计划_V1.0_231031/【购物清单-杂项】.md",
+    "上岸计划_V1.0_231031/【购物清单-资料】.md",
+    "【笔记】/【政治】/0-难度排名.md",
+    "上岸计划_V1.0_231031/【状态维持】身体状态保持/【体格】/1-无氧运动.md",
+    "上岸计划_V1.0_231031/【状态维持】身体状态保持/【心肺功能】/1-有氧运动.md",
+    "上岸计划_V1.0_231031/【第一轮】复习计划—38有效日/数三部分/高等数学/极限.md",
+    "上岸计划_V1.0_231031/【第一轮】复习计划—38有效日/数三部分/高等数学/高等数学.md",
+    "Alist.md",
+    "备忘录",
+    "【笔记】/【政治】/5-形策与当代",
+    "【笔记】/【政治】/4-思修与法基",
+    "【笔记】/【政治】/3-史纲",
+    "【笔记】/【政治】/2-毛中特",
+    "【笔记】/【政治】/1-马原",
+    "【笔记】/【专业课】",
+    "【笔记】/【数三】/3-概率论与数理统计",
+    "上岸计划_V1.0_231031/未命名.md",
+    "上岸计划_V1.0_231031/【管理科学与工程】.md"
+  ]
+}
