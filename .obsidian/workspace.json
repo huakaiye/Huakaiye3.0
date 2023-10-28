@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/药性表.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/药性表.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/药性表.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/药性表.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "e1176dc4fa8faca2",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
     "草稿纸.md",
     "中医/药性表.md",
+    "README.md",
+    "新建 文本文档.txt",
     "上岸计划_V1.0_231031/【状态维持】身体状态保持/【提神】/提神饮料.md",
     "备忘录/Obsidian表格.md",
     "中医",
@@ -223,7 +224,6 @@
     "【笔记】/【政治】/2-毛中特",
     "【笔记】/【政治】/1-马原",
     "【笔记】/【专业课】",
-    "【笔记】/【数三】/3-概率论与数理统计",
     "上岸计划_V1.0_231031/未命名.md",
     "上岸计划_V1.0_231031/【管理科学与工程】.md"
   ]
