@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "图片"
 }
