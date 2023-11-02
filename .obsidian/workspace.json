@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5ce64258e92e4699",
@@ -190,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "747a844db9716778",
+  "active": "e1176dc4fa8faca2",
   "lastOpenFiles": [
     "图片/Pasted image 20231102120007.png",
     "图片/Pasted image 20231102115843.png",
