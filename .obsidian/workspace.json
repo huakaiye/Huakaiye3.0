@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
+                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md"
+              }
             }
           },
           {
@@ -154,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +177,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4841d504fea3584b",
+  "active": "2f8e87d1008107d0",
   "lastOpenFiles": [
     "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
     "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
