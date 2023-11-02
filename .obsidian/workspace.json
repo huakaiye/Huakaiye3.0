@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "经典",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/经典与常用/经典.md"
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md"
               }
             }
           },
@@ -191,8 +192,8 @@
   },
   "active": "e1176dc4fa8faca2",
   "lastOpenFiles": [
-    "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
     "【笔记】/【数三】/1-高等数学/经典与常用/经典.md",
+    "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数、极限、连续.md",
     "【笔记】/【数三】/1-高等数学/经典与常用",
     "Pasted image 20231102132531.png",
     "图片/Pasted image 20231102120007.png",
