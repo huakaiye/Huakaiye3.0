@@ -11,8 +11,12 @@
             "id": "4841d504fea3584b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -28,16 +32,6 @@
             }
           },
           {
-            "id": "25520d0ede805d26",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片/Pasted image 20231102151130.png"
-              }
-            }
-          },
-          {
             "id": "0a0cebd7c6d7ac52",
             "type": "leaf",
             "state": {
@@ -49,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "备忘录/Todoist过滤选项.md",
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "备忘录/Todoist过滤选项.md",
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "备忘录/Todoist过滤选项.md"
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md"
               }
             }
           },
@@ -199,11 +192,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a0cebd7c6d7ac52",
+  "active": "4841d504fea3584b",
   "lastOpenFiles": [
-    "图片/Pasted image 20231102152047.png",
-    "图片/Pasted image 20231102151130.png",
     "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
+    "图片/Pasted image 20231102151130.png",
+    "备忘录/Todoist过滤选项.md",
+    "图片/Pasted image 20231102152047.png",
     "未命名.md",
     "图片/Pasted image 20231103115250.png",
     "图片/Pasted image 20231103114349.png",
@@ -213,7 +207,6 @@
     "图片/Pasted image 20231103102844.png",
     "图片/Pasted image 20231103095438.png",
     "图片/Pasted image 20231103094830.png",
-    "图片/Pasted image 20231103093706.png",
     "【笔记】/【数三】/1-高等数学/经典零分.md",
     "备忘录/markdown数学公式.md",
     "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/连续.md",
@@ -240,7 +233,6 @@
     "备忘录/常用的14个Markdown语法.md",
     "上岸计划_V1.0_231031/【每日清单】-Todoist.md",
     "上岸计划_V1.0_231031/【目标分数】385.md",
-    "备忘录/Todoist过滤选项.md",
     "上岸计划_V1.0_231031/【购物清单-杂项】.md",
     "上岸计划_V1.0_231031/【购物清单-资料】.md",
     "【笔记】/【政治】/0-难度排名.md",
