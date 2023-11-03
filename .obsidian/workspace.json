@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md"
+              }
             }
           },
           {
@@ -172,8 +177,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4841d504fea3584b",
+  "active": "2f8e87d1008107d0",
   "lastOpenFiles": [
+    "Pasted image 20231103113835.png",
     "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
     "Pasted image 20231103113355.png",
     "Pasted image 20231103103806.png",
