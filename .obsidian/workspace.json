@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +172,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f8e87d1008107d0",
+  "active": "4841d504fea3584b",
   "lastOpenFiles": [
+    "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
+    "Pasted image 20231103113355.png",
     "Pasted image 20231103103806.png",
     "Pasted image 20231103102844.png",
     "Pasted image 20231103095438.png",
@@ -188,10 +185,7 @@
     "Pasted image 20231103092950.png",
     "Pasted image 20231103092943.png",
     "Pasted image 20231102160406.png",
-    "Pasted image 20231102160046.png",
-    "Pasted image 20231102160026.png",
     "【笔记】/【数三】/1-高等数学/经典零分.md",
-    "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/极限.md",
     "备忘录/markdown数学公式.md",
     "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/连续.md",
     "【笔记】/【数三】/1-高等数学/1-一元函数微积分/1-微分学/函数.md",
